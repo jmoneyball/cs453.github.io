@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ZooTopia Directory</string>
+    <string name="action_information">Information</string>
+    <string name="action_uninstall">Uninstall</string>
+    <string name="phone">TEL:888–888–8888</string>
+    <string name="zoo_name">ZooTopia</string>
+    <string name="alert_name">!! WARNING !!</string>
+    <string name="alert_message"> This animal is very scary.
+        Are you sure you would like to proceed?.</string>
+
+    <string-array name="animal_names_full">
+        <item>Gorilla</item>
+        <item>Lion</item>
+        <item>Penguin</item>
+        <item>Red Panda</item>
+        <item>Zebra</item>
+    </string-array>
+
+    <string-array name="animal_descriptions_full">
+        <item name="gorilla_description">
+            These ground-dwelling herbivorous apes are the largest living primates, and they are the next closest living relatives to humans after the chimpanzees and bonobos.
+            Like all the great apes, the arms of the gorilla are longer than its legs.
+            Though they can stand upright, they usually use their arms as legs, a characteristic known as knuckle walking.
+            Gorillas are usually surprisingly shy, though they may show aggression by beating their chests and charging if their social group is threatened.
+        </item>
+        <item name="lion_description">
+          A king of the animal kingdom, a lion is a muscular, deep-chested cat with a short head and a prominent mane.
+        Being the biggest of the cat species, lions are excellent combat animals despite their wildness.
+        </item>
+        <item name="penguin_description">
+            An aquatic, flightless bird, only found in arctic regions.
+            Often seen in massive flocks, penguins are fierce when cornered, and can quickly overrun any hunter incompetent enough to get close to them.
+        </item>
+        <item name="redpanda_description">
+            The red panda is a small mammal, slightly larger than a domestic cat, with a bear-like body and thick russet fur.
+            The belly and limbs are black, and there are white markings on the side of the head and above its small eyes.
+            Red pandas are very skillful and acrobatic animals that predominantly stay in trees.
+            It is a solitary animal, mainly active from dusk to dawn, though they can be quite affectionate if properly tamed.
+        </item>
+        <item name="zebra_description">
+            A member of the horse family native to arid and desert areas.
+            Whilst it doesn\t share the same bodysize as a horse, due to years of evolution it\s one of the fastest hooved animals.
+         </item>
+    </string-array>
+
+
+</resources>
